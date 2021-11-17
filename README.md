@@ -1,6 +1,8 @@
 # Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation
 Pytorch implementation for Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation. The goal is to introduce a lightweight generative adversarial network for efficient image manipulation using natural language descriptions.
 
+# Vadim Becquet
+
 ### Overview
 <img src="archi.jpg" width="940px" height="230px"/>
 
